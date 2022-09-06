@@ -1,3 +1,9 @@
+"""
+Author: Muhammad Altaaf
+Contact Email: taafuuu@gmail.com
+Description: A simple Quran per Ayah png generator. This script uses images from everyayah.com   ,   though it has no affiliations with the mentioned site.
+"""
+
 import requests
 
 suras = [sura for sura in range(1,115)]
