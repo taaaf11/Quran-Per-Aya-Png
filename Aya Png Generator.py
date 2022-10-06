@@ -12,6 +12,7 @@ aya_s = ['7', '286', '200', '176', '120', '165', '206', '75', '129', '109', '123
 
 sura_aya = {}
 
+# Create dir with name so as to put images in that directory
 os.mkdir("Aya Images")
 os.chdir("Aya Images")
 
